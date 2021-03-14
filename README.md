@@ -1,2 +1,2 @@
 # data-analysis
-Learn to using data in day today life
+Learn to use data in day today life
