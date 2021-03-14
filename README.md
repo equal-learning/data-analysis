@@ -1,2 +1,6 @@
 # data-analysis
-Learn to use data in day today life
+# Learn how to use data
+
+Analyzing the data  .......
+
+![](imgs/ds-cv-raman.png)
